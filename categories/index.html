@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<h1>카테고리들</h1>
+<ul>
+{% for category in site.categories %}
+  <li>
+    {{ category | first}}
+  </li>
+{% endfor %}
+</ul>
