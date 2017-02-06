@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "스크럼과 XP 리뷰"
 date:   2017-01-20 19:20:41 +0900
 categories: book development
@@ -13,7 +14,7 @@ categories: book development
         <img src='http://image.yes24.com/momo/TopCate73/MidCate01/7203980.jpg' alt='book cover' />
       </td>
       <td>
-        <a target='\_blank' href='http://www.yes24.com/24/goods/3385532'> 린 스타트업 바이블</a>
+        <a target='\_blank' href='http://www.yes24.com/24/goods/3385532'> 스크럼과 XP</a>
         <p class='font-smaller'>오늘날 IT, Game, SI 분야뿐만 아니라 거의 모든 산업 분야에서 S/W의 비중은 급격히 커지고 있다. 따라서 S/W 개발 능력이 많은 회사의 흥망을 좌우하는 시대가 되었다고도 볼 수 있다. 이 책은 Agile 개발 방법론 중 하나인 스크럼을 통한 프로젝트 과정을 담고 있다. 스크럼은 복잡한 프로젝트를 관리하기 위한 아주 단순한 프레임워크로, 고객이 원하는 가치를 제공하는 효율적인 도구이다.</p>
         <p class='font-smaller'>출처: <a target='\_blank' href='http://www.yes24.com/24/goods/3385532'>Yes24</a></p>
       </td>

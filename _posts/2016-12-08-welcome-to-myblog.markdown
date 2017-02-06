@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "첫 포스트"
 date:   2016-12-08 18:11:20 +0900
 categories: update
