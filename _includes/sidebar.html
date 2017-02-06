@@ -1,9 +1,9 @@
 <div class='sidebar'>
   <nav>
-      <div class='sidebar-item'>Categories</div>
+    <div class='sidebar-item'>Categories</div>
     {% for category in site.categories %}
       {% if category[1].size > 0 %}
-        <a class='sidebar-item' href='/blog/categories/{{ category[0] }}'>{{ category[0] | capitalize }}
+        <a class='sidebar-item' href='/blog/categories/{{ category[0] }}'>{{ category[0] | capitalize }}</a>
       {% endif %}
     {% endfor %}
   </nav>

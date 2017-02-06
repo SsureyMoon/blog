@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "린 스타트업 바이블 리뷰"
 date:   2017-01-03 19:04:20 +0900
 categories: book startup
