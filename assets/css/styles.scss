@@ -91,9 +91,12 @@
 }
 
 .main-content {
-  width: 75%;
+  width: 95%;
+  @media screen and (min-width: 800px){
+    width: 77.5%;
+    float: left;
+  }
 }
-
 
 .post-title {
   font-size: 35px;
@@ -102,10 +105,32 @@
   }
 }
 
+.highlighter-rouge {
+  color: #ff2d2d;
+}
+
+.page-content {
+  padding: 0;
+}
+
+.clearfix:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
 pre, code {
   background: #e7e7e7;
 }
 
-.highlighter-rouge {
-  color: #ff2d2d;
+header {
+  margin-bottom: 20px;
+}
+
+footer {
+  box-sizing: border-box;
+}
+
+div {
+  box-sizing: border-box;
 }
